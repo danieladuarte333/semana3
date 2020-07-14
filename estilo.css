@@ -1,0 +1,28 @@
+
+	body{
+		background-color:#74b47b;
+	}
+	div{
+		background-color: white;
+		border: 1px solid blue;
+		padding: 12px;
+		width: 80%;
+		margin: 0 auto;
+	}	
+	legend{
+		background-color: #74b49b;
+		padding: 5px ;
+		border-radius: 20px;
+		font-weight: bold;
+	}
+	img{
+		margin-bottom: 12px;
+		
+		margin-right: 30px
+		height: 100px;
+		width: 100px;
+	}
+	span{
+		font-weight: bold;
+	}
+	
